@@ -1,0 +1,300 @@
+[
+  {
+    "Processador": [
+      {
+        "modelo": "Intel Core i7-11700K",
+        "marca": "Intel",
+        "preco": 2499.90,
+        "loja": "Kabum",
+        "site": "https://www.kabum.com.br"
+      },
+      {
+        "modelo": "AMD Ryzen 5 5600X",
+        "marca": "AMD",
+        "preco": 1599.90,
+        "loja": "Terabyte Shop",
+        "site": "https://www.terabyteshop.com.br"
+      },
+      {
+        "modelo": "Intel Core i9-11900K",
+        "marca": "Intel",
+        "preco": 3499.90,
+        "loja": "Pichau",
+        "site": "https://www.pichau.com.br"
+      },
+      {
+        "modelo": "AMD Ryzen 7 5800X",
+        "marca": "AMD",
+        "preco": 2299.90,
+        "loja": "Kabum",
+        "site": "https://www.kabum.com.br"
+      },
+      {
+        "modelo": "Intel Core i5-11400F",
+        "marca": "Intel",
+        "preco": 1199.90,
+        "loja": "Terabyte Shop",
+        "site": "https://www.terabyteshop.com.br"
+      }
+    ],
+    "Cooler do processador": [
+      {
+        "modelo": "Cooler Master Hyper 212",
+        "marca": "Cooler Master",
+        "preco": 179.90,
+        "loja": "Terabyte Shop",
+        "site": "https://www.terabyteshop.com.br"
+      },
+      {
+        "modelo": "Noctua NH-D15",
+        "marca": "Noctua",
+        "preco": 499.90,
+        "loja": "Kabum",
+        "site": "https://www.kabum.com.br"
+      },
+      {
+        "modelo": "Corsair iCUE H100i RGB",
+        "marca": "Corsair",
+        "preco": 699.90,
+        "loja": "Pichau",
+        "site": "https://www.pichau.com.br"
+      },
+      {
+        "modelo": "Be Quiet! Pure Rock 2",
+        "marca": "Be Quiet!",
+        "preco": 259.90,
+        "loja": "Terabyte Shop",
+        "site": "https://www.terabyteshop.com.br"
+      },
+      {
+        "modelo": "DeepCool Gammaxx 400",
+        "marca": "DeepCool",
+        "preco": 149.90,
+        "loja": "Kabum",
+        "site": "https://www.kabum.com.br"
+      }
+    ],
+    "Placa mãe": [
+      {
+        "modelo": "ASUS ROG Strix B550-F",
+        "marca": "ASUS",
+        "preco": 1499.90,
+        "loja": "Pichau",
+        "site": "https://www.pichau.com.br"
+      },
+      {
+        "modelo": "MSI MAG B550 Tomahawk",
+        "marca": "MSI",
+        "preco": 1299.90,
+        "loja": "Kabum",
+        "site": "https://www.kabum.com.br"
+      },
+      {
+        "modelo": "Gigabyte B550 AORUS Elite",
+        "marca": "Gigabyte",
+        "preco": 1199.90,
+        "loja": "Terabyte Shop",
+        "site": "https://www.terabyteshop.com.br"
+      },
+      {
+        "modelo": "ASRock B450M Steel Legend",
+        "marca": "ASRock",
+        "preco": 899.90,
+        "loja": "Pichau",
+        "site": "https://www.pichau.com.br"
+      },
+      {
+        "modelo": "ASUS Prime B450M-A II",
+        "marca": "ASUS",
+        "preco": 649.90,
+        "loja": "Kabum",
+        "site": "https://www.kabum.com.br"
+      }
+    ],
+    "Memória": [
+      {
+        "modelo": "Corsair Vengeance LPX 16GB (2x8GB) DDR4 3200MHz",
+        "marca": "Corsair",
+        "preco": 899.90,
+        "loja": "Kabum",
+        "site": "https://www.kabum.com.br"
+      },
+      {
+        "modelo": "G.Skill Ripjaws V 16GB (2x8GB) DDR4 3200MHz",
+        "marca": "G.Skill",
+        "preco": 849.90,
+        "loja": "Terabyte Shop",
+        "site": "https://www.terabyteshop.com.br"
+      },
+      {
+        "modelo": "HyperX Fury 16GB (2x8GB) DDR4 3200MHz",
+        "marca": "HyperX",
+        "preco": 799.90,
+        "loja": "Pichau",
+        "site": "https://www.pichau.com.br"
+      },
+      {
+        "modelo": "Kingston HyperX Predator 16GB (2x8GB) DDR4 3200MHz",
+        "marca": "Kingston",
+        "preco": 899.90,
+        "loja": "Kabum",
+        "site": "https://www.kabum.com.br"
+      },
+      {
+        "modelo": "Crucial Ballistix 16GB (2x8GB) DDR4 3200MHz",
+        "marca": "Crucial",
+        "preco": 799.90,
+        "loja": "Terabyte Shop",
+        "site": "https://www.terabyteshop.com.br"
+      }
+    ],
+    "Armazenamento": [
+      {
+        "modelo": "Samsung 970 EVO Plus 1TB NVMe",
+        "marca": "Samsung",
+        "preco": 1199.90,
+        "loja": "Terabyte Shop",
+        "site": "https://www.terabyteshop.com.br"
+      },
+      {
+        "modelo": "WD Black SN750 1TB NVMe",
+        "marca": "Western Digital",
+        "preco": 1099.90,
+        "loja": "Kabum",
+        "site": "https://www.kabum.com.br"
+      },
+      {
+        "modelo": "Kingston A2000 1TB NVMe",
+        "marca": "Kingston",
+        "preco": 899.90,
+        "loja": "Pichau",
+        "site": "https://www.pichau.com.br"
+      },
+      {
+        "modelo": "Crucial P1 1TB NVMe",
+        "marca": "Crucial",
+        "preco": 849.90,
+        "loja": "Kabum",
+        "site": "https://www.kabum.com.br"
+      },
+      {
+        "modelo": "Seagate FireCuda 510 1TB NVMe",
+        "marca": "Seagate",
+        "preco": 1099.90,
+        "loja": "Terabyte Shop",
+        "site": "https://www.terabyteshop.com.br"
+      }
+    ],
+    "Fonte": [
+      {
+        "modelo": "Corsair RM750x 750W 80 Plus Gold",
+        "marca": "Corsair",
+        "preco": 649.90,
+        "loja": "Pichau",
+        "site": "https://www.pichau.com.br"
+      },
+      {
+        "modelo": "EVGA 600 W1 600W 80 Plus White",
+        "marca": "EVGA",
+        "preco": 399.90,
+        "loja": "Kabum",
+        "site": "https://www.kabum.com.br"
+      },
+      {
+        "modelo": "Cooler Master MWE 550W 80 Plus Bronze",
+        "marca": "Cooler Master",
+        "preco": 349.90,
+        "loja": "Terabyte Shop",
+        "site": "https://www.terabyteshop.com.br"
+      },
+      {
+        "modelo": "Gigabyte P650B 650W 80 Plus Bronze",
+        "marca": "Gigabyte",
+        "preco": 499.90,
+        "loja": "Pichau",
+        "site": "https://www.pichau.com.br"
+      },
+      {
+        "modelo": "Seasonic S12III 500W 80 Plus Bronze",
+        "marca": "Seasonic",
+        "preco": 319.90,
+        "loja": "Kabum",
+        "site": "https://www.kabum.com.br"
+      }
+    ],
+    "Placa de vídeo": [
+      {
+        "modelo": "NVIDIA GeForce RTX 3060 Ti",
+        "marca": "NVIDIA",
+        "preco": 3499.90,
+        "loja": "Kabum",
+        "site": "https://www.kabum.com.br"
+      },
+      {
+        "modelo": "AMD Radeon RX 6700 XT",
+        "marca": "AMD",
+        "preco": 3299.90,
+        "loja": "Terabyte Shop",
+        "site": "https://www.terabyteshop.com.br"
+      },
+      {
+        "modelo": "NVIDIA GeForce RTX 3070",
+        "marca": "NVIDIA",
+        "preco": 4199.90,
+        "loja": "Pichau",
+        "site": "https://www.pichau.com.br"
+      },
+      {
+        "modelo": "AMD Radeon RX 6800 XT",
+        "marca": "AMD",
+        "preco": 4499.90,
+        "loja": "Kabum",
+        "site": "https://www.kabum.com.br"
+      },
+      {
+        "modelo": "NVIDIA GeForce RTX 3080",
+        "marca": "NVIDIA",
+        "preco": 5799.90,
+        "loja": "Terabyte Shop",
+        "site": "https://www.terabyteshop.com.br"
+      }
+      ],
+      "Gabinete": [
+      {
+        "modelo": "NZXT H510",
+        "marca": "NZXT",
+        "preco": 599.90,
+        "loja": "Terabyte Shop",
+        "site": "https://www.terabyteshop.com.br"
+      },
+      {
+        "modelo": "Corsair 4000D",
+        "marca": "Corsair",
+        "preco": 749.90,
+        "loja": "Kabum",
+        "site": "https://www.kabum.com.br"
+      },
+      {
+        "modelo": "Cooler Master MasterBox Q300L",
+        "marca": "Cooler Master",
+        "preco": 299.90,
+        "loja": "Pichau",
+        "site": "https://www.pichau.com.br"
+      },
+      {
+        "modelo": "Thermaltake V200 RGB",
+        "marca": "Thermaltake",
+        "preco": 449.90,
+        "loja": "Kabum",
+        "site": "https://www.kabum.com.br"
+      },
+      {
+        "modelo": "Lian Li PC-O11 Dynamic",
+        "marca": "Lian Li",
+        "preco": 1099.90,
+        "loja": "Terabyte Shop",
+        "site": "https://www.terabyteshop.com.br"
+      }
+    ]
+  }
+]

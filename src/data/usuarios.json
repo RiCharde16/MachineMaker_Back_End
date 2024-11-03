@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nome": "Ricardo Soares",
+    "email": "ricardo@gmail.com",
+    "senha": "$2b$12$uh8T8rPwCObshp1ZBUBBlugRpXnScqP4hpJZa9H9tlT0rKLrXu5ku"
+  },
+  {
+    "id": 2,
+    "nome": "Maria Clara",
+    "email": "maria@gmail.com",
+    "senha": "maria-1234"
+  }
+]
